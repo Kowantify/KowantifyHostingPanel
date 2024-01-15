@@ -9,11 +9,11 @@ module.exports = {
             },
             colors: {
                 black: '#131a20',
-                slate: colors.slate,
+                slate: colors.red.950,
                 // "primary" and "neutral" are deprecated, prefer the use of "blue" and "gray"
                 // in new code.
                 primary: colors.blue,
-                neutral: colors.slate,
+                neutral: colors.red.950,
                 cyan: colors.cyan,
             },
             fontSize: {
