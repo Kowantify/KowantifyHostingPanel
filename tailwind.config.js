@@ -15,7 +15,7 @@ module.exports = {
                 // in new code.
                 primary: colors.red,
                 // "neutral" is used for text colors!!! (has to be tailwind variable)
-                neutral: colors.slate,
+                neutral: colors.red,
                 cyan: colors.rose,            },
             fontSize: {
                 '2xs': '0.625rem',
